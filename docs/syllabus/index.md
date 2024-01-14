@@ -1,3 +1,8 @@
+---
+title: Course Syllabus
+description: Introduction to Compiler Design
+---
+
 ## Course Information
 
 - **Term:** Spring 2024
