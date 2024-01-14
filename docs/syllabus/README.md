@@ -1,5 +1,3 @@
-# Syllabus - Introduction to Compiler Design
-
 ## Course Information
 
 - **Term:** Spring 2024
