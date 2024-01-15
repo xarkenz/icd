@@ -1,4 +1,11 @@
 title: Introduction to Compiler Design
 description: Spring 2024
-theme: minima
 url: https://xarkenz.github.io/icd-material
+
+remote_theme: jekyll/minima
+
+header_pages:
+  - syllabus.md
+
+minima:
+  skin: auto

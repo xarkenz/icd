@@ -1,7 +1,7 @@
 ---
+layout: page
 title: Syllabus
-description: Introduction to Compiler Design
-theme: minima
+permalink: /syllabus/
 ---
 
 ## Course Information
