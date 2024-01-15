@@ -1,6 +1,7 @@
 ---
-title: Course Syllabus
+title: Syllabus
 description: Introduction to Compiler Design
+theme: minima
 ---
 
 ## Course Information
