@@ -132,4 +132,4 @@ there either.
 ## UTD Syllabus Policies and Procedures
 
 The information contained in the following link constitutes the University’s policies and procedures segment
-of the course syllabus. Please go to http://go.utdallas.edu/syllabus-policies for these policies.
+of the course syllabus. Please go to [go.utdallas.edu/syllabus-policies](http://go.utdallas.edu/syllabus-policies) for these policies.
