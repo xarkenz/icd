@@ -84,10 +84,25 @@ of the selected topics (including required topics listed in the Calendar) is req
 ## Calendar
 
 The order of later topics is subject to change. After week 4, much of the higher-level constructs can be
-implemented in any order. **Bold** topics are required to earn the certification. *Italicized* topics are tech-talk-style
-lectures over topics not expected to be implemented for the class project.
+implemented in any order. **Bold** topics are required to earn the certification.
 
-(coming soon)
+|Week |Dates      |Content |Optional Features |Tech Talk |
+|-----|-----------|--------|------------------|----------|
+|1    |1/22, 1/24 |**Scanning**, **Parsing**, **Precedence** |Bit-shifting operators | |
+|2    |1/29, 1/31 |**LLVM generation** |Your own cool statement |General-Purpose Parsing |
+|3    |2/5, 2/7   |**Basic `print` statements** |Integer types (except `char`) | Architecture of Large Compilers |
+|4    |2/12, 2/14 |**Global Variables** |N-base integer literals |Compiler Security |
+|5    |2/19, 2/21 |**Comparisons**, **`if` statements**, **`while` loops**, `for` loops |`break` and `continue` | |
+|6    |2/26, 2/28 |**Function declarations and calls**, `char` type |`while`-`else` and `for`-`else` loops |JIT Compiling |
+|7    |3/4, 3/6   |**Pointers** | |Functional Language Compilation |
+|8    |3/11, 3/13 |Catch-up week (Spring Break) | | |
+|9    |3/18, 3/20 |**Basic optimizations**, Generalizing lvalues | | |
+|10   |3/25, 3/27 |**Function arguments**, Local variables (part 1) | |LLVM Optimizations |
+|11   |4/1, 4/3   |Local Variables (part 2) | |Loop Optimizations |
+|12   |4/8, 4/10  |**Naive arrays** | |Higher-level language constructs |
+|13   |4/15, 4/17 |**Structs** | |Parallelism Optimizations |
+|14   |4/22, 4/24 | |Triple test |Certified Compilers, Zero-Knowledge Proofs in Compilers |
+|15   |4/29, 5/1  |Compiler presentations | | |
 
 ## Course Policies
 
