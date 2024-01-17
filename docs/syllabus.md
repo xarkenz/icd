@@ -9,7 +9,7 @@ permalink: /syllabus/
 - **Term:** Spring 2024
 - **Instructor:** Sean Clarke ([sean.clarke@utdallas.edu](mailto:sean.clarke@utdallas.edu))
 - **Course Website:** [xarkenz.github.io/icd](https://xarkenz.github.io/icd)
-- **Class Hours:** Monday & Wednesday, 2:30 - 3:45 pm
+- **Class Hours:** Monday & Wednesday, 2:30 - 3:45 pm (subject to change)
 - **Class Location:** *TBD*
 - **Office Hours:** during class
 
@@ -67,7 +67,7 @@ found in compilers like `gcc` and `clang`
 - [LLVM’s "My First Language Frontend"](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
 - [LLVM-IR Language Reference Manual](https://llvm.org/docs/LangRef.html)
 
-## Quizzes
+## Quizzes (TBD)
 
 Once-weekly in-class quizzes will be given to ensure that students are keeping up with course content.
 Quizzes may be of any form as the instructor sees fit, and answers will be graded for correctness with
@@ -86,8 +86,8 @@ of the selected topics (including required topics listed in the Calendar) is req
 The order of later topics is subject to change. After week 4, much of the higher-level constructs can be
 implemented in any order. **Bold** topics are required to earn the certification.
 
-|Week |Dates      |Content |Optional Features |Tech Talk |
-|-----|-----------|--------|------------------|----------|
+|Week |Dates        |Content |Optional Features |Tech Talk |
+|-----|-------------|--------|------------------|----------|
 |1    |1/22<br>1/24 |**Scanning**<br>**Parsing**<br>**Precedence** |Bit-shifting operators | |
 |2    |1/29<br>1/31 |**LLVM generation** |Your own cool statement |General-Purpose Parsing |
 |3    |2/5<br>2/7   |**Basic `print` statements** |Integer types (except `char`) | Architecture of Large Compilers |

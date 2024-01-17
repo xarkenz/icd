@@ -10,6 +10,7 @@ remote_theme: jekyll/minima
 
 header_pages:
   - syllabus.md
+  - signup.md
 
 minima:
   skin: auto

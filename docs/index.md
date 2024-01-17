@@ -5,7 +5,7 @@ title: Introduction to Compiler Design
 
 ## Sign Up
 
-You can sign up for the course at any time with [this form]().
+You can sign up for the course at any time [here]({{site.url}}/signup/).
 
 ## Lectures
 
