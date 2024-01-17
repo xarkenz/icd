@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Introduction to Compiler Design
 ---
 
 ## Sign Up
