@@ -2,7 +2,9 @@
 layout: home
 ---
 
-[ECCO Project Base](https://github.com/CharlesAverill/ECCO)
+## Sign Up
+
+You can sign up for the course at any time with [this form]().
 
 ## Lectures
 
@@ -25,3 +27,8 @@ layout: home
 - Architecture of Large Compilers
 - Compiler Security
 - Functional Language Compilers
+
+## Links
+
+- [ECCO Project Base](https://github.com/CharlesAverill/ECCO)
+- [Fall 2023 Page](https://seashell.charles.systems/teaching/ICD)

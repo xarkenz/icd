@@ -9,9 +9,9 @@ permalink: /syllabus/
 - **Term:** Spring 2024
 - **Instructor:** Sean Clarke ([sean.clarke@utdallas.edu](mailto:sean.clarke@utdallas.edu))
 - **Course Website:** [xarkenz.github.io/icd-material](https://xarkenz.github.io/icd-material)
-- **Class Hours:** *TBD*
+- **Class Hours:** Monday & Wednesday, 2:30 - 3:45 pm
 - **Class Location:** *TBD*
-- **Office Hours:** *TBD*
+- **Office Hours:** during class
 
 ## Course Description
 
