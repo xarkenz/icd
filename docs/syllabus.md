@@ -30,7 +30,7 @@ a better working understanding of the internals of a basic compiler.
 
 ## Soft Prerequisites (not required)
 
-- **CS 2337** or equivalent experience in an imperative programming language (C, C++, Java, Python, etc.).
+- **CS 2336 / CS 2337** or equivalent experience in an imperative programming language (C, C++, Java, Python, etc.).
 The course will be taught in Python, so familiarity is encouraged. However, confidence in another language
 will suffice, as no specific Python features will be important.
 - **CS 2340** or equivalent knowledge of basic
