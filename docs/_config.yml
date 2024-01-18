@@ -9,8 +9,9 @@ author:
 remote_theme: jekyll/minima
 
 header_pages:
-  - syllabus.md
   - signup.md
+  - syllabus.md
+  - prereqs.md
 
 minima:
   skin: auto

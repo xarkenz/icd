@@ -31,19 +31,17 @@ a better working understanding of the internals of a basic compiler.
 ## Soft Prerequisites (not required)
 
 - **CS 2336 / CS 2337** or equivalent experience in an imperative programming language (C, C++, Java, Python, etc.).
-The course will be taught in Python, so familiarity is encouraged. However, confidence in another language
+The course will be primarily taught in Python, so familiarity is encouraged. However, confidence in another language
 will suffice, as no specific Python features will be important.
-- **CS 2340** or equivalent knowledge of basic
-programming in any assembly language.
-- **CS 3345** or equivalent knowledge of trees, linked lists, basic
-hash tables, basic recursive tree traversal.
+- **CS 2340** or equivalent knowledge of basic programming in any assembly language.
+- **CS 3345** or equivalent knowledge of linked lists, trees, basic hash tables, and their traversals.
 - **CS 3377** or equivalent knowledge of basic Unix, Bash usage.
-- Basic `git` knowledge.
-- Provided course materials assume that the compiler will be built and run on a Linux target, so usage of
-the `cs1.utdallas.edu` server or a physical Linux machine is required, unless students choose to not use
-the project base.
+- Basic Git knowledge.
+- Provided course materials assume compilation to a Linux target, so **usage of Linux** in some capacity
+is required, unless students choose not to use the [project base](https://github.com/CharlesAverill/ECCO).
+This can be a physical Linux machine, the `cs1.utdallas.edu` server, Windows Subsystem for Linux, etc.
 
-Should course participants request, the instructor will provide a review video covering needed prior knowledge for this course.
+These prerequisites are covered in more detail on the [Prerequisites]({{site.url}}/prereqs/) page.
 
 ## Course Objectives
 

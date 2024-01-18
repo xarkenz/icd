@@ -9,7 +9,6 @@ You can sign up for the course at any time [here]({{site.url}}/signup/).
 
 ## Lectures
 
-0. Prerequisite Review
 1. Introduction, Scanning
 2. Parsing, Precedence
 3. LLVM Generation
@@ -31,5 +30,6 @@ You can sign up for the course at any time [here]({{site.url}}/signup/).
 
 ## Links
 
+- [LLVM-IR Language Reference Manual](https://llvm.org/docs/LangRef.html)
 - [ECCO Project Base](https://github.com/CharlesAverill/ECCO)
 - [Fall 2023 Page](https://seashell.charles.systems/teaching/ICD)
