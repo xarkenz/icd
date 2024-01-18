@@ -37,7 +37,7 @@ will suffice, as no specific Python features will be important.
 - **CS 3345** or equivalent knowledge of linked lists, trees, basic hash tables, and their traversals.
 - **CS 3377** or equivalent knowledge of basic Unix, Bash usage.
 - Basic Git knowledge.
-- Provided course materials assume compilation to a Linux target, so **usage of Linux** in some capacity
+- Provided course materials assume compilation to a Linux target, so usage of Linux in some capacity
 is required, unless students choose not to use the [project base](https://github.com/CharlesAverill/ECCO).
 This can be a physical Linux machine, the `cs1.utdallas.edu` server, Windows Subsystem for Linux, etc.
 
