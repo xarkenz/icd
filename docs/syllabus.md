@@ -10,7 +10,7 @@ permalink: /syllabus/
 - **Instructor:** Sean Clarke ([sean.clarke@utdallas.edu](mailto:sean.clarke@utdallas.edu))
 - **Course Website:** [xarkenz.github.io/icd](https://xarkenz.github.io/icd)
 - **Class Hours:** Monday & Wednesday, 2:30 - 3:45 pm (subject to change)
-- **Class Location:** *TBD*
+- **Class Location:** ECSS 4.910
 - **Office Hours:** during class
 
 ## Course Description

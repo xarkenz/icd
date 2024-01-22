@@ -9,7 +9,7 @@ You can sign up for the course at any time [here]({{site.url}}/signup/).
 
 ## Lectures
 
-1. Introduction, Scanning
+1. [Introduction, Scanning]({{site.url}}/lectures/01/)
 2. Parsing, Precedence
 3. LLVM Generation
 4. Statements
