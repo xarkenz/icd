@@ -14,6 +14,7 @@ permalink: /lectures/01/
     height="315"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
+    style="width: 100%; height: 100%; aspect-ratio: 16 / 9;"
 ></iframe>
 
 ## Lecture Slides
@@ -26,4 +27,5 @@ permalink: /lectures/01/
     allowfullscreen="true"
     mozallowfullscreen="true"
     webkitallowfullscreen="true"
+    style="width: 100%; height: 100%; aspect-ratio: 16 / 9;"
 ></iframe>
