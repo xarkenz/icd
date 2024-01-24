@@ -10,16 +10,17 @@ You can sign up for the course at any time [here]({{site.url}}/signup/).
 ## Lectures
 
 1. [Introduction, Scanning]({{site.url}}/lectures/01/)
-2. Parsing, Precedence
-3. LLVM Generation
-4. Statements
-5. Global Variables
-6. Comparisons
-7. Conditional Statements and Loops
-8. Function Declarations and the `char` Type
-9. Function Calls and Return Statements
-10. Pointers
-11. Arithmetic and Stack Optimizations
+2. [Expression Parsing]({{site.url}}/lectures/02/)
+3. Operator Precedence
+4. LLVM Generation
+5. Statements
+6. Global Variables
+7. Comparisons
+8. Conditional Statements and Loops
+9. Function Declarations and the `char` Type
+10. Function Calls and Return Statements
+11. Pointers
+12. Arithmetic and Stack Optimizations
 
 ## Tech Talks
 
