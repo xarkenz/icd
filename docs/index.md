@@ -12,7 +12,7 @@ You can sign up for the course at any time [here]({{site.url}}/signup/).
 1. [Introduction, Scanning]({{site.url}}/lectures/01/)
 2. [Expression Parsing]({{site.url}}/lectures/02/)
 3. [Operator Precedence]({{site.url}}/lectures/03/)
-4. LLVM Generation
+4. [LLVM Generation]({{site.url}}/lectures/04/)
 5. Statements
 6. Global Variables
 7. Comparisons

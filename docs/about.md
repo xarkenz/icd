@@ -1,34 +1,33 @@
 ---
 layout: page
-title: Syllabus
-permalink: /syllabus/
+title: About
+permalink: /about/
 ---
 
-## Course Information
+## General Information
 
 - **Term:** Spring 2024
-- **Instructor:** Sean Clarke ([sean.clarke@utdallas.edu](mailto:sean.clarke@utdallas.edu))
-- **Course Website:** [xarkenz.github.io/icd](https://xarkenz.github.io/icd)
-- **Class Hours:** Monday & Wednesday, 2:30 - 3:45 pm (subject to change)
-- **Class Location:** ECSS 4.910
-- **Office Hours:** during class
+- **Lecture Times:** Monday & Wednesday, 2:30 - 3:45 pm
+- **Lecture Location:** ECSS 4.910
+- **Instructor:** Sean Clarke
+  - Email: [sean.clarke@utdallas.edu](mailto:sean.clarke@utdallas.edu)
+  - GitHub: [@xarkenz](https://github.com/xarkenz)
 
-## Course Description
+## Description
 
-This course will provide a broad introduction to compiler design, focused specifically on code generation.
+This course will provide a broad introduction to compiler design, focused primarily on code generation.
 This course will not provide credit for any degree from the University of Texas at Dallas or any other
-university. Upon completing this course, students will be rewarded with the **University of Texas at
+university. Upon completion of this course, students will be awarded with the **University of Texas at
 Dallas Certification in Compiler Design**.
 By the end of this course, students will have built a functioning compiler for either a subset of C should
 they choose to follow along with the course material, or their own imperative programming language should
 they choose to do so.
-This course will briefly cover popular compiler design technologies, such as `flex` and `bison`, but will not
-use them in the material. Instead, a scanner and parser will be built from scratch. Students are given
+A scanner and parser will be built from scratch. Students are given
 free reign to implement functionality in their compiler as they see fit, so implementation of these popular
 technologies is allowed. From-scratch implementation is encouraged, however, to ensure that students have
 a better working understanding of the internals of a basic compiler.
 
-## Soft Prerequisites (not required)
+## Recommended Experience
 
 - **CS 2336 / CS 2337** or equivalent experience in an imperative programming language (C, C++, Java, Python, etc.).
 The course will be primarily taught in Python, so familiarity is encouraged. However, confidence in another language
@@ -43,7 +42,7 @@ This can be a physical Linux machine, the `cs1.utdallas.edu` server, Windows Sub
 
 These prerequisites are covered in more detail on the [Prerequisites]({{site.url}}/prereqs/) page.
 
-## Course Objectives
+## Objectives
 
 Successful students will:
 
@@ -57,19 +56,14 @@ to improve generated pseudo-assembly code
 found in compilers like `gcc` and `clang`
 6. Complete knowledge-testing quizzes in class
 
-## Optional Materials
+## Resources
 
-- ["Compilers: Principles, Techniques, and Tools" - Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman](https://github.com/KnowNo/books-7/blob/master/Programming/Compilers%20-%20Principles%20Techniques%20and%20Tools%20by%20Alfred%20Aho%20-%20Monica%20Lam-%20Ravi%20Sethi-%20Jeffrey%20Ullman%20-%20Second%20Edition.pdf)
-- [SubC](https://www.t3x.org/subc/index.html)
-- [ACWJ - DoctorWkt](https://github.com/DoctorWkt/acwj)
+- [ECCO (example compiler)](https://github.com/CharlesAverill/ECCO)
 - [LLVM’s "My First Language Frontend"](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
 - [LLVM-IR Language Reference Manual](https://llvm.org/docs/LangRef.html)
-
-## Quizzes (TBD)
-
-Once-weekly in-class quizzes will be given to ensure that students are keeping up with course content.
-Quizzes may be of any form as the instructor sees fit, and answers will be graded for correctness with
-partial credit where applicable.
+- [ACWJ - DoctorWkt](https://github.com/DoctorWkt/acwj)
+- [SubC](https://www.t3x.org/subc/index.html)
+- ["Compilers: Principles, Techniques, and Tools" - Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman](https://github.com/KnowNo/books-7/blob/master/Programming/Compilers%20-%20Principles%20Techniques%20and%20Tools%20by%20Alfred%20Aho%20-%20Monica%20Lam-%20Ravi%20Sethi-%20Jeffrey%20Ullman%20-%20Second%20Edition.pdf)
 
 ## Class Project
 
@@ -86,9 +80,9 @@ implemented in any order. **Bold** topics are required to earn the certification
 
 |Week |Dates        |Content |Optional Features |Tech Talk |
 |-----|-------------|--------|------------------|----------|
-|1    |1/22<br>1/24 |**Scanning**<br>**Parsing**<br>**Precedence** |Bit-shifting operators | |
-|2    |1/29<br>1/31 |**LLVM generation** |Your own cool statement |General-Purpose Parsing |
-|3    |2/5<br>2/7   |**Basic `print` statements** |Integer types (except `char`) | Architecture of Large Compilers |
+|1    |1/22<br>1/24 |**Scanning**<br>**Parsing** | | |
+|2    |1/29<br>1/31 |**Precedence**<br>**LLVM generation** |Bit-shifting operators |General-Purpose Parsing |
+|3    |2/5<br>2/7   |**Basic `print` statements** |Your own cool statement<br>Integer types (except `char`) | Architecture of Large Compilers |
 |4    |2/12<br>2/14 |**Global Variables** |N-base integer literals |Compiler Security |
 |5    |2/19<br>2/21 |**Comparisons**<br>**`if` statements**<br>**`while` loops**<br>`for` loops |`break`<br>`continue` | |
 |6    |2/26<br>2/28 |**Function declarations and calls**<br>`char` type |`while`-`else` loops<br>`for`-`else` loops |JIT Compiling |
@@ -102,23 +96,21 @@ implemented in any order. **Bold** topics are required to earn the certification
 |14   |4/22<br>4/24 | |Triple test |Certified Compilers<br>Zero-Knowledge Proofs in Compilers |
 |15   |4/29<br>5/1  |Compiler presentations | | |
 
-## Course Policies
+## Policies
 
-### During Class
+### During Lecture
 
-I understand that the electronic recording of notes will be important for class and so computers will be
-allowed in class. Please refrain from using computers for anything but activities related to the class. Eating
-and drinking are allowed in class but please refrain from it affecting the course. Try not to eat your lunch
-in class as the classes are typically active.
+I don't have any strict requirements on what you should be doing during the lectures.
+My recommendation is that 
 
 ### Attendance
 
 There is lots of material to cover, so please attend all classes in order to stay up. If you miss a class,
 reviewing the related [ACWJ](https://github.com/DoctorWkt/acwj) topics is a good way to catch back up.
 
-### Recordings
+### Lecture Recordings
 
-The course lectures will be recorded and uploaded to YouTube for student convenience.
+The course lectures will be recorded and posted on the main page of this website alongside the lecture slides and other resources.
 
 ## Academic Integrity and Honesty
 

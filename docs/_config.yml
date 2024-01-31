@@ -10,7 +10,7 @@ remote_theme: jekyll/minima
 
 header_pages:
   - signup.md
-  - syllabus.md
+  - about.md
   - prereqs.md
 
 minima:
