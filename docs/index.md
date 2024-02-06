@@ -22,13 +22,6 @@ You can sign up for the course at any time [here]({{site.url}}/signup/).
 11. Pointers
 12. Arithmetic and Stack Optimizations
 
-## Tech Talks
-
-- Parser Generators
-- Architecture of Large Compilers
-- Compiler Security
-- Functional Language Compilers
-
 ## Links
 
 - [LLVM-IR Language Reference Manual](https://llvm.org/docs/LangRef.html)
