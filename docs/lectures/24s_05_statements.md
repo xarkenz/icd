@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "03. Precedence, Pratt Parsing"
-permalink: /lectures/03/
+title: "05. Statements"
+permalink: /lectures/05/
 ---
 
 ## Lecture Recording
