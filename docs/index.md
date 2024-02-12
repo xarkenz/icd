@@ -15,7 +15,7 @@ You can sign up for the course at any time [here]({{site.url}}/signup/).
 4. [LLVM Generation]({{site.url}}/lectures/04/)
 5. [Statements]({{site.url}}/lectures/05/)
 6. [Local Variables]({{site.url}}/lectures/06/)
-7. Comparisons
+7. [Comparisons]({{site.url}}/lectures/07/)
 8. Conditional Statements and Loops
 9. Function Declarations and the `char` Type
 10. Function Calls and Return Statements
