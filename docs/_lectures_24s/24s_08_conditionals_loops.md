@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "02. Expression Parsing"
-permalink: /lectures/02/
+slug: "08"
+title: "08. Conditionals and Loops"
 ---
 
 ## Lecture Recording
 
 <iframe
-    src="https://www.youtube-nocookie.com/embed/kluJaOBUb24?si=TP6asGrsvY4LqgEB"
+    src="https://www.youtube-nocookie.com/embed/tsY3Ogm4-Y0?si=9NqBJsoNlYQm27uO"
     title="YouTube video player"
     frameborder="0"
     width="560"
@@ -20,7 +20,7 @@ permalink: /lectures/02/
 ## Lecture Slides
 
 <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vRu3xC-7e0CAZzjEgiZRxX6OXFqMllAU5FigTcHFQeYWTaYDBooiJE54m-sq30MullwE_n8hmApUqKP/embed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQU1EcrrMI3iBj6vBWccs-7_W3ueY4Z_hfU6MTX9zzQNd4m0dAX7kAKn7I3jfcKLh-fugvvYhRa8qkj/embed?start=false&loop=false&delayms=3000"
     frameborder="0"
     width="960"
     height="569"

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "01. Introduction, Scanning"
-permalink: /lectures/01/
+slug: "03"
+title: "03. Precedence, Pratt Parsing"
 ---
 
 ## Lecture Recording
 
 <iframe
-    src="https://www.youtube-nocookie.com/embed/0YVQ2maeM9A?si=bSGzjdjN0qUwKYPZ"
+    src="https://www.youtube-nocookie.com/embed/INXkHZnj6KU?si=5Jr7co2tO3DQh2bM"
     title="YouTube video player"
     frameborder="0"
     width="560"
@@ -20,7 +20,7 @@ permalink: /lectures/01/
 ## Lecture Slides
 
 <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vTtvQf7m1qB9nhwOr8MaRnZRKP3HMhGyuCyzShFJyMfi4aWFsX1y8KNjCowSLnDBJW-k-dycthehhPu/embed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSGWsJXVnnQyT5I5EdsFE79zRpMKDFjqzIpK98HFydR_5JdDlCCrhwUskzKAwUHk4g1Pso6I6ki_jMb/embed?start=false&loop=false&delayms=3000"
     frameborder="0"
     width="960"
     height="569"

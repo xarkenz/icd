@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "03. Precedence, Pratt Parsing"
-permalink: /lectures/03/
+slug: "02"
+title: "02. Expression Parsing"
 ---
 
 ## Lecture Recording
 
 <iframe
-    src="https://www.youtube-nocookie.com/embed/INXkHZnj6KU?si=5Jr7co2tO3DQh2bM"
+    src="https://www.youtube-nocookie.com/embed/kluJaOBUb24?si=TP6asGrsvY4LqgEB"
     title="YouTube video player"
     frameborder="0"
     width="560"
@@ -20,7 +20,7 @@ permalink: /lectures/03/
 ## Lecture Slides
 
 <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vSGWsJXVnnQyT5I5EdsFE79zRpMKDFjqzIpK98HFydR_5JdDlCCrhwUskzKAwUHk4g1Pso6I6ki_jMb/embed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vRu3xC-7e0CAZzjEgiZRxX6OXFqMllAU5FigTcHFQeYWTaYDBooiJE54m-sq30MullwE_n8hmApUqKP/embed?start=false&loop=false&delayms=3000"
     frameborder="0"
     width="960"
     height="569"

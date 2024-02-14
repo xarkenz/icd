@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "07. Comparisons"
-permalink: /lectures/07/
+slug: "05"
+title: "05. Statements"
 ---
 
 ## Lecture Recording
 
 <iframe
-    src="https://www.youtube-nocookie.com/embed/AFJDJgTFOoI?si=B1PTJuGiO57yev7D"
+    src="https://www.youtube-nocookie.com/embed/_GElGKPypq4?si=ZC-HZHg68-IFOUu2"
     title="YouTube video player"
     frameborder="0"
     width="560"
@@ -20,7 +20,7 @@ permalink: /lectures/07/
 ## Lecture Slides
 
 <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vQtwM2n5EKzXMQB08Su4qxcVuD23VDt1su56U5rQf2NmL9uX4ZjHlJR0ZzpHlEAZmhzWqgQrXYyvacA/embed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vRgTiczVGyzdk47IpH_CzprZfV_g3UrqH_xv9yresyRRPCAqd1IMZlDRnVRkuCeMnj07sTFOv-ctffu/embed?start=false&loop=false&delayms=3000"
     frameborder="0"
     width="960"
     height="569"

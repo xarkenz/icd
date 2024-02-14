@@ -1,7 +1,7 @@
 ---
 layout: page
+slug: "04"
 title: "04. LLVM Generation"
-permalink: /lectures/04/
 ---
 
 ## Lecture Recording

@@ -15,3 +15,8 @@ header_pages:
 
 minima:
   skin: auto
+
+collections:
+  lectures_24s:
+    output: true
+    permalink: /lectures/:title

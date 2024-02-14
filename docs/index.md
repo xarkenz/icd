@@ -9,18 +9,9 @@ You can sign up for the course at any time [here]({{site.url}}/signup/).
 
 ## Lectures
 
-1. [Introduction, Scanning]({{site.url}}/lectures/01/)
-2. [Expression Parsing]({{site.url}}/lectures/02/)
-3. [Precedence, Pratt Parsing]({{site.url}}/lectures/03/)
-4. [LLVM Generation]({{site.url}}/lectures/04/)
-5. [Statements]({{site.url}}/lectures/05/)
-6. [Local Variables]({{site.url}}/lectures/06/)
-7. [Comparisons]({{site.url}}/lectures/07/)
-8. Conditional Statements and Loops
-9. Function Declarations and the `char` Type
-10. Function Calls and Return Statements
-11. Pointers
-12. Arithmetic and Stack Optimizations
+{% for lecture in site.lectures_24s %}
+  - [{{lecture.title}}]({{lecture.url}})
+{% endfor %}
 
 ## Links
 

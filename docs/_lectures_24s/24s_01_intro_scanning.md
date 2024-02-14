@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "05. Statements"
-permalink: /lectures/05/
+slug: "01"
+title: "01. Introduction, Scanning"
 ---
 
 ## Lecture Recording
 
 <iframe
-    src="https://www.youtube-nocookie.com/embed/_GElGKPypq4?si=ZC-HZHg68-IFOUu2"
+    src="https://www.youtube-nocookie.com/embed/0YVQ2maeM9A?si=bSGzjdjN0qUwKYPZ"
     title="YouTube video player"
     frameborder="0"
     width="560"
@@ -20,7 +20,7 @@ permalink: /lectures/05/
 ## Lecture Slides
 
 <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vRgTiczVGyzdk47IpH_CzprZfV_g3UrqH_xv9yresyRRPCAqd1IMZlDRnVRkuCeMnj07sTFOv-ctffu/embed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTtvQf7m1qB9nhwOr8MaRnZRKP3HMhGyuCyzShFJyMfi4aWFsX1y8KNjCowSLnDBJW-k-dycthehhPu/embed?start=false&loop=false&delayms=3000"
     frameborder="0"
     width="960"
     height="569"

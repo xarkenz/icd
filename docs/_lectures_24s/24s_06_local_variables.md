@@ -1,7 +1,7 @@
 ---
 layout: page
+slug: "06"
 title: "06. Local Variables"
-permalink: /lectures/06/
 ---
 
 ## Lecture Recording
