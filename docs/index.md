@@ -9,9 +9,11 @@ You can sign up for the course at any time [here]({{site.url}}/signup/).
 
 ## Lectures
 
-{% for lecture in site.lectures_24s %}
-  - [{{lecture.title}}]({{lecture.url}})
-{% endfor %}
+<ul>
+  {% for lecture in site.lectures_24s %}
+    <li>[{{lecture.title}}]({{lecture.url}})</li>
+  {% endfor %}
+</ul>
 
 ## Links
 
