@@ -19,5 +19,4 @@ minima:
 collections:
   lectures_24s:
     output: true
-    # TODO: why did `icd` have to be specified?
-    permalink: /icd/lectures/:title
+    permalink: /lectures/:title

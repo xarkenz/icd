@@ -11,7 +11,7 @@ You can sign up for the course at any time [here]({{site.url}}/signup/).
 
 <ul>
   {% for lecture in site.lectures_24s %}
-    <li>[{{lecture.title}}]({{lecture.url}})</li>
+    <li>[{{lecture.title}}]({{site.url}}{{lecture.url}})</li>
   {% endfor %}
 </ul>
 
