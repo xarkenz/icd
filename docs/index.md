@@ -17,8 +17,15 @@ You can sign up for the course at any time [here]({{site.url}}/signup/).
   {% endfor %}
 </ul>
 
-## Links
+## Resources
 
 - [LLVM-IR Language Reference Manual](https://llvm.org/docs/LangRef.html)
-- [ECCO Project Base](https://github.com/CharlesAverill/ECCO)
-- [Fall 2023 Page](https://seashell.charles.systems/teaching/ICD)
+- [ECCO Example Compiler](https://github.com/CharlesAverill/ECCO)
+- [New Example Compiler](https://github.com/xarkenz/icd-example) (WIP)
+
+## Archive
+
+- [Fall 2023](https://seashell.charles.systems/teaching/ICD)
+  ([Charles Averill](https://seashell.charles.systems/))
+- [Spring 2023](https://seashell.charles.systems/teaching/PCD)
+  ([Charles Averill](https://seashell.charles.systems/))

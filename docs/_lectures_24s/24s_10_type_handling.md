@@ -1,16 +1,13 @@
 ---
 layout: page
-slug: "01"
-title: "01. Introduction, Scanning"
+slug: "10"
+title: "10. Type Handling"
 ---
-
-You can find the example implementation for this lecture
-[here](https://github.com/xarkenz/icd-example/tree/01_scanning).
 
 ## Lecture Recording
 
 <iframe
-    src="https://www.youtube-nocookie.com/embed/0YVQ2maeM9A?si=bSGzjdjN0qUwKYPZ"
+    src="https://www.youtube-nocookie.com/embed/k3j463GaBjw?si=XjB_N4WPWgdvhqU8"
     title="YouTube video player"
     frameborder="0"
     width="560"
@@ -23,7 +20,7 @@ You can find the example implementation for this lecture
 ## Lecture Slides
 
 <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vTtvQf7m1qB9nhwOr8MaRnZRKP3HMhGyuCyzShFJyMfi4aWFsX1y8KNjCowSLnDBJW-k-dycthehhPu/embed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTGpVBRwaUyMfqlp2PC974YlvXfLUQPYtPKYa_I6NrUm_8JeABC7ilnPZXGI7vu0gedyx1JtoPxcKbk/embed?start=false&loop=false&delayms=3000"
     frameborder="0"
     width="960"
     height="569"
