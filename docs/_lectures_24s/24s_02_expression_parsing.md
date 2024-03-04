@@ -4,6 +4,11 @@ slug: "02"
 title: "02. Expression Parsing"
 ---
 
+There is no example implementation specifically for this lecture,
+but next lecture's implementation includes the content here.
+You can find the example implementation for the next lecture
+[here](https://github.com/xarkenz/icd-example/tree/02_pratt-parsing).
+
 ## Lecture Recording
 
 <iframe

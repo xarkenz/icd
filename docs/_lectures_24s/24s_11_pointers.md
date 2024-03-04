@@ -1,16 +1,13 @@
 ---
 layout: page
-slug: "03"
-title: "03. Precedence, Pratt Parsing"
+slug: "11"
+title: "11. Pointers"
 ---
-
-You can find the example implementation for this lecture
-[here](https://github.com/xarkenz/icd-example/tree/02_pratt-parsing).
 
 ## Lecture Recording
 
 <iframe
-    src="https://www.youtube-nocookie.com/embed/INXkHZnj6KU?si=5Jr7co2tO3DQh2bM"
+    src="https://www.youtube-nocookie.com/embed/qBLPQPR1B5c?si=cpHxoVQAElrS4i0C"
     title="YouTube video player"
     frameborder="0"
     width="560"
@@ -23,7 +20,7 @@ You can find the example implementation for this lecture
 ## Lecture Slides
 
 <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vSGWsJXVnnQyT5I5EdsFE79zRpMKDFjqzIpK98HFydR_5JdDlCCrhwUskzKAwUHk4g1Pso6I6ki_jMb/embed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTR7DVD3c2kbkYQnY6p4LkygsHKmrf4XKZh_T9YIbUAw68KyG2T8LpJvtTVaiqB2H76016kCVhkjNLB/embed?start=false&loop=false&delayms=3000"
     frameborder="0"
     width="960"
     height="569"
