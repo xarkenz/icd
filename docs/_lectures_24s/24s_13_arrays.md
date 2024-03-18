@@ -1,16 +1,13 @@
 ---
 layout: page
-slug: "05"
-title: "05. Statements"
+slug: "13"
+title: "13. Arrays"
 ---
-
-You can find the example implementation for this lecture
-[here](https://github.com/xarkenz/icd-example/tree/04_statements).
 
 ## Lecture Recording
 
 <iframe
-    src="https://www.youtube-nocookie.com/embed/_GElGKPypq4?si=ZC-HZHg68-IFOUu2"
+    src="https://www.youtube-nocookie.com/embed/cDS7r-mYrD0?si=5HU_bDnOItWQVAPV"
     title="YouTube video player"
     frameborder="0"
     width="560"
@@ -23,7 +20,7 @@ You can find the example implementation for this lecture
 ## Lecture Slides
 
 <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vRgTiczVGyzdk47IpH_CzprZfV_g3UrqH_xv9yresyRRPCAqd1IMZlDRnVRkuCeMnj07sTFOv-ctffu/embed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQD3gGUt0UQZBDcg5y359W64jmQ7iYRAUrJzeJwaJ-26SgQGgD6sRwBL9vSUkkNowveilGkuCGmWQZ9/embed?start=false&loop=false&delayms=3000"
     frameborder="0"
     width="960"
     height="569"
