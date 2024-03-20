@@ -1,16 +1,13 @@
 ---
 layout: page
-slug: "07"
-title: "07. Comparisons"
+slug: "14"
+title: "14. Strings"
 ---
-
-You can find the example implementation for this lecture
-[here](https://github.com/xarkenz/icd-example/tree/06_comparisons).
 
 ## Lecture Recording
 
 <iframe
-    src="https://www.youtube-nocookie.com/embed/AFJDJgTFOoI?si=B1PTJuGiO57yev7D"
+    src="https://www.youtube-nocookie.com/embed/l1U8bxcUOZw?si=2D549TE1rufmNvjb"
     title="YouTube video player"
     frameborder="0"
     width="560"
@@ -23,7 +20,7 @@ You can find the example implementation for this lecture
 ## Lecture Slides
 
 <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vQtwM2n5EKzXMQB08Su4qxcVuD23VDt1su56U5rQf2NmL9uX4ZjHlJR0ZzpHlEAZmhzWqgQrXYyvacA/embed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSevJ1OmTz4QZ-i_YfRA6JlUgR6aCcDLVM7MF1IlTOan_jRU_XzpZ4RBi1CnkfEsnebRGxITORczKn5/embed?start=false&loop=false&delayms=3000"
     frameborder="0"
     width="960"
     height="569"
