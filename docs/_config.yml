@@ -20,3 +20,6 @@ collections:
   lectures_24s:
     output: true
     permalink: /lectures/:title
+  bonus_lectures_24s:
+    output: true
+    permalink: /bonus_lectures/:title
