@@ -35,7 +35,7 @@ You can sign up for the course at any time [here]({{site.url}}/signup/).
 
 ## Archive
 
-- [Fall 2023](https://seashell.charles.systems/teaching/ICD)
-  ([Charles Averill](https://seashell.charles.systems/))
-- [Spring 2023](https://seashell.charles.systems/teaching/PCD)
-  ([Charles Averill](https://seashell.charles.systems/))
+- [Fall 2023](https://charlesaverill.github.io/teaching/ICD)
+  ([Charles Averill](https://charlesaverill.github.io/))
+- [Spring 2023](https://charlesaverill.github.io/teaching/PCD)
+  ([Charles Averill](https://charlesaverill.github.io/))
