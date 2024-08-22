@@ -18,7 +18,7 @@ permalink: /about/
 Introduction to Compiler Design is a workshop that operates in some form like a course,
 though it is *not* an official course at UTD, and will not provide credit for any degree.
 I am simply a student trying to help other students who are interested in designing their own compilers.
-"Lectures" are given during in-person meetings, and the workshop is focused around the project
+Lectures are given during in-person meetings, and the workshop is focused around the project
 of building a compiler, which, if completed, can earn you the
 **University of Texas at Dallas Certification in Compiler Design**.
 (I will announce what is considered "complete" later on once I have an idea of where everyone is at.)

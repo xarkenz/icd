@@ -13,9 +13,9 @@ You can sign up for the course at any time [here]({{site.url}}/signup/).
 (Note that the main purpose of this sign-up form is so I can keep you updated via email
 announcements. To stop receiving updates, just let me know in an email.)
 
-{% if site.lectures_24f != empty %}
-  ## Lectures
+## Lectures
 
+{% if site.lectures_24f != empty %}
   <ul>
     {% for lecture in site.lectures_24f %}
       <li>
