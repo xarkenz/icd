@@ -15,7 +15,7 @@ permalink: /lectures_24s/
 </ul>
 
 {% if site.bonus_lectures_24s != empty %}
-  ## Bonus Lectures
+## Bonus Lectures
 
   <ul>
     {% for lecture in site.bonus_lectures_24s %}
