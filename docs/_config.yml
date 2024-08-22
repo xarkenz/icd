@@ -1,7 +1,7 @@
 url: https://xarkenz.github.io/icd
 
 title: Introduction to Compiler Design
-description: Spring 2024
+description: Fall 2024
 author:
   name: Sean Clarke
   email: sean.clarke@utdallas.edu
@@ -11,15 +11,20 @@ remote_theme: jekyll/minima
 header_pages:
   - signup.md
   - about.md
-  - prereqs.md
 
 minima:
   skin: auto
 
 collections:
+  lectures_24f:
+    output: true
+    permalink: /lectures_24f/:title
+  bonus_lectures_24f:
+    output: true
+    permalink: /bonus_lectures_24f/:title
   lectures_24s:
     output: true
-    permalink: /lectures/:title
+    permalink: /lectures_24s/:title
   bonus_lectures_24s:
     output: true
-    permalink: /bonus_lectures/:title
+    permalink: /bonus_lectures_24s/:title
