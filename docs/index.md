@@ -30,7 +30,7 @@ announcements. To stop receiving updates, just let me know in an email.)
 {% endif %}
 
 {% if site.bonus_lectures_24f != empty %}
-## Bonus Lectures
+  <h2>Bonus Lectures</h2>
 
   <ul>
     {% for lecture in site.bonus_lectures_24f %}
