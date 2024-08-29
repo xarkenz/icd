@@ -8,7 +8,7 @@ permalink: /about/
 
 - **Term:** Fall 2024
 - **Lecture Times:** Monday & Wednesday, 2:30 - 3:45 pm
-- **Lecture Location:** TBD
+- **Lecture Location:** JO 3.516
 - **Instructor:** Sean Clarke
   - Email: [sean.clarke@utdallas.edu](mailto:sean.clarke@utdallas.edu)
   - GitHub: [@xarkenz](https://github.com/xarkenz)
