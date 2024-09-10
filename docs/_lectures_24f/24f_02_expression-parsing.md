@@ -1,16 +1,16 @@
 ---
 layout: page
-slug: "05"
-title: "05. Statements"
+slug: "02"
+title: "02. Expression Parsing"
 ---
 
 You can find the example implementation for this lecture
-[here](https://github.com/xarkenz/icd-example/tree/05_statements).
+[here](https://github.com/xarkenz/icd-example/tree/02_parsing-ast).
 
 ## Lecture Recording
 
 <iframe
-    src="https://www.youtube-nocookie.com/embed/_GElGKPypq4?si=ZC-HZHg68-IFOUu2"
+    src="https://www.youtube-nocookie.com/embed/wwDEhc9Nodw?si=5CMMGy3cvQq9q9nr"
     title="YouTube video player"
     frameborder="0"
     width="560"
@@ -23,7 +23,7 @@ You can find the example implementation for this lecture
 ## Lecture Slides
 
 <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vRgTiczVGyzdk47IpH_CzprZfV_g3UrqH_xv9yresyRRPCAqd1IMZlDRnVRkuCeMnj07sTFOv-ctffu/embed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/1pDur6Q3cJxvW65W-WE0c01esqzi25aQ1kmRrGjJ4eaU/embed?start=false&loop=false&delayms=3000"
     frameborder="0"
     width="960"
     height="569"

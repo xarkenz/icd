@@ -5,7 +5,7 @@ title: "06. Local Variables"
 ---
 
 You can find the example implementation for this lecture
-[here](https://github.com/xarkenz/icd-example/tree/05_local-variables).
+[here](https://github.com/xarkenz/icd-example/tree/06_local-variables).
 
 ## Lecture Recording
 

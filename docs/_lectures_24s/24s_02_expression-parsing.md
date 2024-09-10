@@ -1,13 +1,18 @@
 ---
 layout: page
-slug: "08"
-title: "08. Conditionals and Loops"
+slug: "02"
+title: "02. Expression Parsing"
 ---
+
+There is no example implementation specifically for this lecture,
+but the implementation of Fall 2024 Lecture 02 includes the content here.
+You can find the example implementation for that lecture
+[here](https://github.com/xarkenz/icd-example/tree/02_parsing-ast).
 
 ## Lecture Recording
 
 <iframe
-    src="https://www.youtube-nocookie.com/embed/tsY3Ogm4-Y0?si=9NqBJsoNlYQm27uO"
+    src="https://www.youtube-nocookie.com/embed/kluJaOBUb24?si=TP6asGrsvY4LqgEB"
     title="YouTube video player"
     frameborder="0"
     width="560"
@@ -20,7 +25,7 @@ title: "08. Conditionals and Loops"
 ## Lecture Slides
 
 <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vQU1EcrrMI3iBj6vBWccs-7_W3ueY4Z_hfU6MTX9zzQNd4m0dAX7kAKn7I3jfcKLh-fugvvYhRa8qkj/embed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vRu3xC-7e0CAZzjEgiZRxX6OXFqMllAU5FigTcHFQeYWTaYDBooiJE54m-sq30MullwE_n8hmApUqKP/embed?start=false&loop=false&delayms=3000"
     frameborder="0"
     width="960"
     height="569"

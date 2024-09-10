@@ -1,16 +1,16 @@
 ---
 layout: page
-slug: "03"
-title: "03. Precedence, Pratt Parsing"
+slug: "08"
+title: "08. Conditionals and Loops"
 ---
 
 You can find the example implementation for this lecture
-[here](https://github.com/xarkenz/icd-example/tree/02_pratt-parsing).
+[here](https://github.com/xarkenz/icd-example/tree/08_conditionals-loops).
 
 ## Lecture Recording
 
 <iframe
-    src="https://www.youtube-nocookie.com/embed/INXkHZnj6KU?si=5Jr7co2tO3DQh2bM"
+    src="https://www.youtube-nocookie.com/embed/tsY3Ogm4-Y0?si=9NqBJsoNlYQm27uO"
     title="YouTube video player"
     frameborder="0"
     width="560"
@@ -23,7 +23,7 @@ You can find the example implementation for this lecture
 ## Lecture Slides
 
 <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vSGWsJXVnnQyT5I5EdsFE79zRpMKDFjqzIpK98HFydR_5JdDlCCrhwUskzKAwUHk4g1Pso6I6ki_jMb/embed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQU1EcrrMI3iBj6vBWccs-7_W3ueY4Z_hfU6MTX9zzQNd4m0dAX7kAKn7I3jfcKLh-fugvvYhRa8qkj/embed?start=false&loop=false&delayms=3000"
     frameborder="0"
     width="960"
     height="569"

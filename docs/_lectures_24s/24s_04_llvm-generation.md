@@ -5,7 +5,7 @@ title: "04. LLVM Generation"
 ---
 
 You can find the example implementation for this lecture
-[here](https://github.com/xarkenz/icd-example/tree/03_llvm-generation).
+[here](https://github.com/xarkenz/icd-example/tree/04_llvm-generation).
 
 ## Lecture Recording
 
