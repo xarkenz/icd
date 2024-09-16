@@ -43,7 +43,7 @@ announcements. To stop receiving updates, just let me know in an email.)
 
 ## Resources
 
-- [LLVM-IR Language Reference Manual](https://llvm.org/docs/LangRef.html)
+- [LLVM IR Language Reference](https://llvm.org/docs/LangRef.html)
 - [ICD Example Compiler](https://github.com/xarkenz/icd-example) (written in Java)
 - [ECCO Example Compiler](https://github.com/CharlesAverill/ECCO) (written in Python)
 
